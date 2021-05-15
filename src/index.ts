@@ -20,4 +20,8 @@ bot.on("message", async (ctx) => {
   }
 });
 
+bot.catch((error) => {
+  console.log(error.error);
+});
+
 bot.start();
