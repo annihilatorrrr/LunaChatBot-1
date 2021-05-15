@@ -12,6 +12,7 @@ Python version is [here](https://github.com/thehamkercat/LunaChatBot).
 2. `cd LunaChatBot`
 3. `npm i`
 4. `export TOKEN=yourBotToken`
-5. `export ARQ_API=yourArqApi`
-6. `tsc`
-7. `npm start`
+5. `export API_URL=yourApiUrl`
+6. `export API_KEY=yourApiKey`
+7. `tsc`
+8. `npm start`
